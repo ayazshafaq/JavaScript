@@ -9,7 +9,7 @@
 // });
 
 const a = () => {
-  return e + 44;
+  return  44;
 };
 
 console.log(a);
